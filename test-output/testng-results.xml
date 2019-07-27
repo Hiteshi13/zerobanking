@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9047" started-at="2019-07-27T19:13:33Z" finished-at="2019-07-27T19:13:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9047" started-at="2019-07-27T19:13:33Z" finished-at="2019-07-27T19:13:42Z">
+      <class name="testCases.TC_02_verifyAddPayee">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TC_02_verifyAddPayee@26be92ad]" name="setup" is-config="true" duration-ms="5196" started-at="2019-07-27T19:13:33Z" finished-at="2019-07-27T19:13:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCases.TC_02_verifyAddPayee@26be92ad]" name="verifyLogin" duration-ms="3047" started-at="2019-07-27T19:13:38Z" finished-at="2019-07-27T19:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_02_verifyAddPayee@26be92ad]" name="tearDown" is-config="true" duration-ms="769" started-at="2019-07-27T19:13:41Z" finished-at="2019-07-27T19:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_02_verifyAddPayee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
